@@ -3,7 +3,6 @@
 #   Author:     Sahil Sharma                    								#
 #   Reference:  Udemy                           								#
 #   Started on: June 12, 2018                   								#
-#   Other info: Venv: workspace/PythonEnvironments/pyinstaller                  #
 #################################################################################
 
 from tkinter import *
